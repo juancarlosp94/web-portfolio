@@ -60,7 +60,7 @@ export const Projects = () => {
                     {({ isVisible }) => 
                     <div className={isVisible ? "animated__animated animate__slideUp" : ""}>
                     <h2>Projects</h2>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus, temporibus modi. Non recusandae pariatur eaque blanditiis.</p>
+                    <p></p>
                     </div>
                     }
                 </TrackVisibility>
