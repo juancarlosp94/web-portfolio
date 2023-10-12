@@ -30,7 +30,7 @@ export const Education = () => {
 
 
     return (
-        <section className="education">
+        <section className="education" id='education'>
             <Container>
                 <Row>
                     <Col>
